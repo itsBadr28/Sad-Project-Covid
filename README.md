@@ -1,6 +1,6 @@
 ### SAD Project COVID-19
 
-#Used libraries
+## Used libraries
 * Numpy
 * Scikit-learn
 * Pandas
@@ -9,3 +9,7 @@
 
 
 # install Miniconda
+
+Create your environment with the above libraries Name it ./env
+
+
